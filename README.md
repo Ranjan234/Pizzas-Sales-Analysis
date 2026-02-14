@@ -80,3 +80,21 @@
 ![CHART](/Images/Page2.png)
 
  ## Conclusion:
+
+ - The business shows consistent order activity with noticeable daily and monthly trends, helping identify peak sales periods.
+
+- Certain pizza categories and sizes contribute significantly higher revenue, indicating strong customer preferences.
+
+- The Top 5 pizzas drive a major share of total revenue, quantity sold, and orders, while the Bottom 5 pizzas highlight underperforming products that may require pricing, promotion, or menu strategy adjustments.
+
+- The average order value and average pizzas per order indicate stable customer purchasing behavior.
+
+# Overall, the analysis helps management:
+
+- Identify high-performing products
+
+- Optimize menu offerings
+
+- Improve marketing strategies
+
+- Focus on peak sales periods for better resource planning
